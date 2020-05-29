@@ -1,0 +1,84 @@
+*{margin: 0px;
+background: #2d2d2d;
+color:#fff;
+padding: 0px;}
+
+.link{text-align: center; background: #008af3;}
+.start h1{background: #008af3;
+    border-radius: 100px;
+    padding: 50px;
+    width: 700px;
+    text-align: center;}
+
+body{margin:0px;padding:0px;font-family: verdana; background:#2d2d2d;}
+
+h3,h2,h4,h5{text-align:center;color:#fff;font-family: 'Fredoka One', cursive;}
+
+header img{text-align: center; width:130px;height:120px;background: #008af3; border:solid 1px #fff;}
+
+header a{font-size: 30px; background: transparent; color:#fff;}
+header{background:#008af3; color:#fff;}
+@media only screen and (max-width: 768px) {
+	.start h1{width:100%; padding:0px; margin: 0px; font-size:1; border-radius: 0px; }
+	header a{font-size:24px; padding: 2px;}
+	header img{height:60px; width:60px;}
+	img{width:170px; height: 200px;}
+input,select,textarea{width: 350px !important;}
+	h1{font-size:45px;}
+	iframe{width:340px; height: 300px;}
+    h4{font-size: 25px;}
+h2{font-size: 40px !important;}
+h3{font-size: 40px !important;}
+}
+input, select, textarea {
+  border-radius: 2px;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+  font-size: 1.25em;
+  font-family: 'Bebas Neue', cursive;
+width: 500px;
+  padding: 8px;
+}
+
+
+h1{font-family: 'Fredoka One', cursive; font-size: 26px; margin: 10px;}
+h4{font-size: 35px;}
+h2{font-size: 60px;}
+h3{font-size: 50px;}
+.cardg{width: 100%; text-align:center;height: 30%;}
+.card{margin:0px;}
+.card img{border:solid 1px black;}
+
+a{ color:#008af3;font-size:30px;font-family: 'Bebas Neue', cursive; padding:10px;}
+div.elem-group {
+  margin: 40px 0;
+}
+
+label {
+  display: block;
+  font-family: 'Aleo';
+  padding-bottom: 4px;
+  font-size: 1.25em;
+}
+
+
+textarea {
+  height: 250px;
+}
+
+button {
+  height: 50px;
+  background: #008af3;
+  color: white;
+
+  border: 2px solid darkgreen;
+  font-size: 1.25em;
+  font-family: Verdana;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+button:hover {
+  border: 2px solid black;
+}
+
