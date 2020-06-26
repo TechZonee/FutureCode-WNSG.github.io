@@ -1,0 +1,27 @@
+*{padding: 0;
+margin:0;}
+
+body{background: #000000e3;color:#fff;}
+
+header{font-size: 30px; color: white ; background: #0000002b ; text-align:center;
+padding: 10px ; font-family: 'Oswald', sans-serif; }
+
+.l a{text-decoration:none; }
+
+.link img{width: 200px; height: 170px ; border-radius: 100%; border: solid 
+	3px gray;}
+
+	p{font-size: 16px; font-family: 'Lobster', cursive;}
+
+
+	@media only screen and (max-width: 768px) {
+		img{width:110px; height: 110px;}
+		.link img{width: 0px;border-radius:0px; height:0px;}
+		header a{padding: 10px;background: #2e2e2ec2; border-radius: 10%; color: #fff;}
+iframe{height: 70%;}
+.img{height: 60%;}
+
+#imagen{height: 450px;}
+	}
+
+
