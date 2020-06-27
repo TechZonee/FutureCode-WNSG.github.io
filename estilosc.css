@@ -1,0 +1,39 @@
+*{padding: 0;
+margin:0;}
+
+.luts{background:black;width: 450px;height: 560px; margin: 20px; border:solid 2px gray; border-radius: 3px;}
+
+.double {border-bottom:solid 1px #083354 ; width: 10%;text-align: center; font-size: 33px}
+p{border-bottom:solid 1px black ; width: 10%;text-align: center; font-size: 30px}
+@media only screen and (max-width: 768px) {
+	a{padding:9px; font-size:29px;}
+	h1{font-size: 50px;}
+.end{width:25%; height: 35%; border: 1px black; border-radius: 50%;}
+	.luts{width: 150px; height: 200px; margin: 8px;}
+img:hover{opacity: 75%;}
+.double {width: 40%}
+	p{width: 50%;}
+
+.in{width: 30% !important;height: 40%; margin:2px;}
+}
+
+.in{width: 25%;height: 35%; border:none;}
+
+
+.end{width:20%; height: 30%; border: 1px black; border-radius: 50%;}
+
+/* reglas CSS para formulario */
+.form-consulta {max-width: 500px; background: #eee; padding: 25px; font-family: 'Source Sans Pro', sans-serif;}
+.campo-form {width:100%; height:36px; margin:2px 0 6px; padding-left:6px; box-sizing: border-box; border-radius:3px; border:0; font-family: 'Source Sans Pro', sans-serif; font-size:1em;}
+label span {color: #f00}
+textarea {min-height: 150px!important;}
+.btn-form {display: inline-block; border:0; background: #000; height: 46px; line-height: 46px; padding: 0 20px; border-radius: 6px; color:#fff; text-decoration: none; text-transform: uppercase; letter-spacing: 1px}
+.btn-form:hover {background: #444}
+
+header{background: black; color:#fff; text-align: center;}
+a{color:#fff; text-decoration: none; padding: 15px; font-size: 35px;}
+h1{font-size: 50px;}
+
+
+footer{background: black; color: #fff; }
+.f{width: 100%; margin: auto;border:none;border-radius: 1px;}
