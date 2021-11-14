@@ -3,7 +3,7 @@ const typed = new Typed('.typed', {
 		'<i class="mascota">te amo</i>',
 		'<i class="mascota">Mucho, muchisimo</i>',
 		'<i class="mascota">¿cuanto?</i>',
-	'<i class="mascota">desde la tierra</i> ,
+	'<i class="mascota">Desde la tierra</i>',
 		'<i class="mascota">hasta saturno</i>',
 		'<i class="mascota">me encantan todo de ti</i>'
 	],
