@@ -1,11 +1,12 @@
 const typed = new Typed('.typed', {
 	strings: [
 		'<i class="mascota">te amo</i>',
-		'<i class="mascota">Mucho, muchisimo</i>',
+		'<i class="mascota">Mucho</i>',
 		'<i class="mascota">¿cuanto?</i>',
-	'<i class="mascota">Desde la tierra</i>',
-		'<i class="mascota">hasta saturno</i>',
-		'<i class="mascota">me encantan todo de ti</i>'
+	'<i class="mascota">Desde la tierra 🌍🌎</i>',
+		'<i class="mascota">hasta saturno 🪐🪐</i>',
+		'<i class="mascota">sabes que eres mi mundo, mi princesa</i>'
+
 	],
 
 	//stringsElement: '#cadenas-texto', // ID del elemento que contiene cadenas de texto a mostrar.
