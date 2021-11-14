@@ -3,8 +3,8 @@ const typed = new Typed('.typed', {
 		'<i class="mascota">te amo</i>',
 		'<i class="mascota">Mucho, muchisimo</i>',
 		'<i class="mascota">¿cuanto?</i>',
-		'<i class="mascota">desde la tierra <img src="https://ichef.bbci.co.uk/news/640/cpsprodpb/192F/production/_111874460_gettyimages-1162834347-1.jpg" alt=""></i>',
-		'<i class="mascota">hasta saturno <img src="https://static.vix.com/es/sites/default/files/styles/4x3/public/btg/curiosidades.batanga.com/files/8-cosas-sobre-Saturno-que-quiza-no-sabias.jpg" alt=""></i>'
+	'<i class="mascota">desde la tierra <img src="https://ichef.bbci.co.uk/news/640/cpsprodpb/192F/production/_111874460_gettyimages-1162834347-1.jpg" alt=""></i>,
+		'<i class="mascota">hasta saturno <img src="https://static.vix.com/es/sites/default/files/styles/4x3/public/btg/curiosidades.batanga.com/files/8-cosas-sobre-Saturno-que-quiza-no-sabias.jpg" alt=""></i>',
 		'<i class="mascota">ok bonita?</i>'
 	],
 
