@@ -1,24 +1,24 @@
 const typed = new Typed('.typed', {
 	strings: [
-		'<i class="mascota">te amo</i>',
-		'<i class="mascota">Mucho</i>',
-		'<i class="mascota">¿cuanto?</i>',
-	'<i class="mascota">Desde la tierra 🌍🌎</i>',
-		'<i class="mascota">hasta saturno 🪐🪐</i>',
-		'<i class="mascota">sabes que eres mi mundo, mi princesa</i>'
+		'<i class="Cambiante">Muchisimo?:3 </i>',
+		'<i class="Cambiante">Muchisimo como para explotar de ternura cuando te escucho :3</i>',
+		'<i class="Cambiante">Sabes cuano ?:3</i>',
+	'<i class="Cambiante">Desde la tierra 🌍🌎</i>',
+		'<i class="Cambiante">hasta saturno 🪐🪐 :D</i>',
+		'<i class="Cambiante">Sin limites mi vida</i>'
 
 	],
 
-	//stringsElement: '#cadenas-texto', // ID del elemento que contiene cadenas de texto a mostrar.
-	typeSpeed: 75, // Velocidad en mlisegundos para poner una letra,
-	startDelay: 300, // Tiempo de retraso en iniciar la animacion. Aplica tambien cuando termina y vuelve a iniciar,
-	backSpeed: 75, // Velocidad en milisegundos para borrrar una letra,
-	smartBackspace: true, // Eliminar solamente las palabras que sean nuevas en una cadena de texto.
-	shuffle: false, // Alterar el orden en el que escribe las palabras.
-	backDelay: 1500, // Tiempo de espera despues de que termina de escribir una palabra.
-	loop: true, // Repetir el array de strings
-	loopCount: false, // Cantidad de veces a repetir el array.  false = infinite
-	showCursor: true, // Mostrar cursor palpitanto
-	cursorChar: '|', // Caracter para el cursor
-	contentType: 'html', // 'html' o 'null' para texto sin formato
+	//Aca se dice cuanto va a durar escribiendo y todo
+	typeSpeed: 75,
+	startDelay: 300,
+	backSpeed: 75,
+	smartBackspace: true,
+	shuffle: false,
+	backDelay: 1500,
+	loop: true,
+	loopCount: false,
+	showCursor: true,
+	cursorChar: '|',
+	contentType: 'html',
 });
